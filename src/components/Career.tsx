@@ -5,8 +5,8 @@ const Career = () => {
     <div className="career-section section-container">
       <div className="career-container">
         <h2>
-          My career <span>&</span>
-          <br /> experience
+          Work <span>&</span>
+          <br /> Experience
         </h2>
         <div className="career-info">
           <div className="career-timeline">
@@ -15,43 +15,45 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Tech Development Intern</h4>
+                <h5>The Dash Media</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>APR 2026 - PRESENT</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Designing and developing web & mobile application features for
+              live client projects. Contributing to frontend/backend
+              components; participating in sprint planning, code reviews, and
+              QA.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Machine Learning Intern</h4>
+                <h5>Navodita Infotech</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>MAR 2026 - PRESENT</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Building & training ML models using Python and scikit-learn.
+              Performing data preprocessing, feature engineering, and EDA using
+              Pandas and NumPy. Improving performance through hyperparameter
+              tuning.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Full Stack Development Intern</h4>
+                <h5>Unessa Foundation</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>FEB 2026 - MAR 2026</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Built responsive UI with HTML, CSS, and React; integrated REST
+              APIs and optimised performance. Debugged cross-browser issues,
+              improving application reliability and UX.
             </p>
           </div>
         </div>

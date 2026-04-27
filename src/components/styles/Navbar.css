@@ -41,9 +41,16 @@
   font-weight: 500;
 }
 .navbar-title {
-  font-weight: 700;
-  font-size: 14px;
-  letter-spacing: 0.2px;
+  display: flex;
+  align-items: center;
+}
+.navbar-logo {
+  height: 60px;
+  width: auto;
+  object-fit: contain;
+  mix-blend-mode: screen;
+  filter: brightness(1.1);
+  margin-left: -10px;
 }
 @media only screen and (min-width: 500px) {
   .header {
