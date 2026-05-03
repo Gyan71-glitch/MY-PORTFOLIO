@@ -5,7 +5,7 @@ export function setCharTimeline(
   character: THREE.Object3D<THREE.Object3DEventMap> | null,
   camera: THREE.PerspectiveCamera
 ) {
-  let intensity: number = 0;
+  // let intensity: number = 0;
   // Use a simpler approach for flickering without setInterval
   const tl1 = gsap.timeline({
     scrollTrigger: {
